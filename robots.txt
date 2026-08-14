@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-kmorow.biggamingwin.online/sitemap.xml
